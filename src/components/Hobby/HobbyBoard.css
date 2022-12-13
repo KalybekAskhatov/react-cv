@@ -1,0 +1,17 @@
+.hobby {
+    background: -webkit-linear-gradient(90deg, #342326,#580413,#540021,#580413,#342326);background: linear-gradient(90deg, #342326,#580413,#540021,#580413,#342326);
+    height: 800px;
+    color: black
+}
+p {
+    font-weight: bolder;
+    font-size: 20px;
+    color: rgb(10, 10, 7);
+}
+h3 {
+    color: #540021;
+    font-size: 60px;
+}
+/* #cardImg {
+    width: 400px;
+} */
